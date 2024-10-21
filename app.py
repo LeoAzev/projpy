@@ -1,1 +1,1 @@
-pint('Helloooooo test!')
+print('Helloooooo test!')
